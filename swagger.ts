@@ -6,7 +6,7 @@ const swaggerDefinition = {
   },
   servers: [
     {
-      url: 'http://localhost:3000', // URL de tu servidor
+      url: 'https://gastos-api-ept8.onrender.com/', // URL de tu servidor
     },
   ],
 };
